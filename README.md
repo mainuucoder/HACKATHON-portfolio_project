@@ -17,7 +17,7 @@ I love creating functional and beautiful web experiences with clean, scalable co
 🎓 **High School**  
 **St. Luke Karundas Secondary School** (2016–2020)
 
-📄 [Download My CV](./DANIEL%20MUTAHI%20CV.pdf)
+📄 [Download My CV](c:\Users\MAINUU.8975\HACKATHON-portfolio_project\hackathon1(portfolio)\DANIEL MUTAHI CV.pdf)
 
 ---
 
