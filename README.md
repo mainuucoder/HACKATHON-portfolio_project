@@ -1,8 +1,3 @@
-Sure! Here's your `README.md` rewritten **exactly in the simplified, emoji-based section style** you showed — clean, friendly, and beginner-friendly:
-
----
-
-```markdown
 # 👨‍💻 Daniel M. Mutahi – Developer Portfolio
 
 Welcome to my personal portfolio website! This site highlights who I am, what I do, the skills I bring, and how you can reach me.
@@ -59,15 +54,3 @@ Feel free to reach out!
 ---
 
 > Built with ❤️ by **Daniel M. Mutahi**
-```
-
----
-
-### ✅ What To Do Next:
-
-* Save the above content in a file named `README.md`.
-* Put it in the root of your project folder.
-* Make sure your CV (`DANIEL MUTAHI CV.pdf`) is also in the same folder if you want the link to work.
-* It’ll display perfectly on GitHub or any Markdown viewer.
-
-Would you like me to help add screenshot images or badge icons to make it more visually appealing too?
