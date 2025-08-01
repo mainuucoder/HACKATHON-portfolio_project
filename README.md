@@ -1,90 +1,73 @@
-
-
-📄 `README.md` – Simplified Version for Daniel M. Mutahi's Portfolio
-
-````markdown
-🧑‍💻 Daniel M. Mutahi – Portfolio Website
-
-This is a personal portfolio website that shows who I am, what I do, the skills I have, the projects I’ve built, and how to contact me.
+Sure! Here's your `README.md` rewritten **exactly in the simplified, emoji-based section style** you showed — clean, friendly, and beginner-friendly:
 
 ---
 
- 🔧 What’s Inside
+```markdown
+# 👨‍💻 Daniel M. Mutahi – Developer Portfolio
 
-- 👋 About Me
-- 💻 Skills & Technologies
-- 🎓 Education
-- 🌍 Projects I’ve Built
-- 📬 Contact Information
+Welcome to my personal portfolio website! This site highlights who I am, what I do, the skills I bring, and how you can reach me.
 
 ---
 
-💡 Features
-
-- Simple and clean design
-- Works on phones, tablets, and computers (responsive)
-- Downloadable CV
-- Contact form (using Formspree)
-- Links to my social media
-- Easy to customize
-
-🖼️ Preview
-
-![Screenshot of Project](./img/project1%20screenshot.png)  
-![Screenshot of Project](./img/project%202%20Screenshot%20.png)
-
-
-💻 Tools and Technologies Used
-
-- HTML
-- CSS
-- JavaScript
-- Google Fonts
-- Formspree (for contact form)
-
-📥 How to Use
-
-Option 1: View in Browser
-Just open the `index.html` file in your web browser.
-
- Option 2: Run Locally
-bash
-git clone https://github.com/yourusername/portfolio.git
-cd portfolio
-open index.html
-
-
-
-🌟 Projects Featured
-
-🔭 Solar System Project
-
-An animated solar system showing planets orbiting the sun.
-🔗 [View on GitHub](https://github.com/mainuucoder/SOLAR-SYSTEM-PROJECT-1.git)
-
-⏰ Analogue Clock
-
-A working clock built with HTML, CSS, and JavaScript.
-🔗 [View on GitHub](https://github.com/mainuucoder/ANALOGUE_CLOCK-PROJECT-2.git)
+## 📝 About Me  
+Hi! I’m **Daniel M. Mutahi**, a passionate software developer and tech enthusiast.  
+I love creating functional and beautiful web experiences with clean, scalable code.
 
 ---
 
-## 📫 Contact Me
+## 🎓 Educational Background  
+🎓 **Bachelor of Education Science with IT**  
+**Garissa University** (2021–2025)
 
-* **Email**: [mutahidaniel2000@gmail.com](mailto:mutahidaniel2000@gmail.com)
-* **Phone**: +254 703 343 652
-* **Location**: Garissa, Kenya
-* **LinkedIn**: [View Profile](https://www.linkedin.com/in/daniel-mutahi-5952ba298)
-* **GitHub**: [mainuucoder](https://github.com/mainuucoder)
+🎓 **High School**  
+**St. Luke Karundas Secondary School** (2016–2020)
 
+📄 [Download My CV](./DANIEL%20MUTAHI%20CV.pdf)
 
-📃 License
+---
 
-This project is free to use under the **MIT License**.
+## 💡 Interests  
+- 🌐 **Web Development** – Building responsive, modern web apps  
+- 🤖 **Artificial Intelligence** – Exploring machine learning & automation  
+- 🔒 **Cybersecurity** – Writing secure, clean code  
+- ☁️ **Cloud Computing** – Using cloud services for scalability  
+- 📊 **Data Analysis** – Using Python, R & SPSS for smart insights
 
+---
 
- 👨‍🏫 About Me
+## 🛠️ Projects
 
-Hi! I’m **Daniel M. Mutahi**, a software developer and tech lover. I enjoy creating websites and learning about AI, cybersecurity, and data science.
+### 🌍 Solar System Project  
+An animated model of the solar system using HTML, CSS, and JavaScript  
+🔗 [GitHub Link](https://github.com/mainuucoder/SOLAR-SYSTEM-PROJECT-1.git)
 
+### ⏰ Analogue Clock  
+A working analog clock built with HTML, CSS, and JavaScript  
+🔗 [GitHub Link](https://github.com/mainuucoder/ANALOGUE_CLOCK-PROJECT-2.git)
 
+---
+
+## 📬 Contact Me  
+Feel free to reach out!
+
+- 📧 **Email**: mutahidaniel2000@gmail.com  
+- 📱 **Phone**: +254 703 343 652  
+- 📍 **Location**: Garissa, Kenya  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/daniel-mutahi-5952ba298)  
+- 🔗 [GitHub](https://github.com/mainuucoder)
+
+---
+
+> Built with ❤️ by **Daniel M. Mutahi**
+```
+
+---
+
+### ✅ What To Do Next:
+
+* Save the above content in a file named `README.md`.
+* Put it in the root of your project folder.
+* Make sure your CV (`DANIEL MUTAHI CV.pdf`) is also in the same folder if you want the link to work.
+* It’ll display perfectly on GitHub or any Markdown viewer.
+
+Would you like me to help add screenshot images or badge icons to make it more visually appealing too?
