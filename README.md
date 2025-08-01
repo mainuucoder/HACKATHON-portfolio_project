@@ -3,7 +3,7 @@
 📄 `README.md` – Simplified Version for Daniel M. Mutahi's Portfolio
 
 ````markdown
-# 🧑‍💻 Daniel M. Mutahi – Portfolio Website
+🧑‍💻 Daniel M. Mutahi – Portfolio Website
 
 This is a personal portfolio website that shows who I am, what I do, the skills I have, the projects I’ve built, and how to contact me.
 
