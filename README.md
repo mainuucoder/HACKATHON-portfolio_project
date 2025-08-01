@@ -1,6 +1,6 @@
 
 
-## 📄 `README.md` – Simplified Version for Daniel M. Mutahi's Portfolio
+📄 `README.md` – Simplified Version for Daniel M. Mutahi's Portfolio
 
 ````markdown
 # 🧑‍💻 Daniel M. Mutahi – Portfolio Website
