@@ -4,7 +4,7 @@
     height: 220px;
     border-radius: 50%;
     box-shadow: 0 4px 16px rgba(0,0,0,0.12);
-    background-image: url('/PORTFOLIO\ IMG.jpg');
+    background-image: url('PORTFOLIO\ IMG.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
